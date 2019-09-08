@@ -7,8 +7,8 @@ module.exports = {
   },
 
   davis: {
-    firstName: 'SystemOfDown',
-    lastName: 'Ejstes',
+    firstName: 'Abuzitos',
+    lastName: 'Abuzitos de mi corazón',
     genre: 'Rock',
   },
 
